@@ -19,9 +19,10 @@ For this assignment all executables will take the following command line argumen
    -p currentPartId - the Coursera Part ID
    -t threadsPerBlock - the number of threads to schedule for concurrent processing
 
-DO NOT TOUCH THE EXISTING PRINT STATEMENTS, THIS MAY CAUSE YOU TO FAIL AN ASSIGNMENT. You can add debug print statement but it should at the end look like the following:
-
 PartID: part-id
 Input A: 1 2 3 4 5 6 7 8 9 10
 Input B: 1 2 3 4 5 6 7 8 9 10
 Result: 1 2 3 4 5 6 7 8 9 10
+
+
+##Accuracy  == 65% could be easily updated to 85%
